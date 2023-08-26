@@ -1,3 +1,3 @@
 # OLX Original
 
-https://furqanshah77.github.io/OLX-clone/
+https://www.olx.com.pk/
